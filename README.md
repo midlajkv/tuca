@@ -106,7 +106,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![Sakura](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/amal_nath_05)
+* [![Sakura](https://img.shields.io/static/v1?label=Sakura&message=BOTZ&color=critical)](https://t.me/amal_nath_05)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
