@@ -62,7 +62,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "{file_name}\n\n🔘 size - {file_size}\n\n╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗\n💥 𝙅𝙊𝙄𝙉 :- @Mr_Movies_Main\n💥 𝙅𝙊𝙄𝙉 :- @mknmovies\n╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝ ",
+            "value": "{file_name}\n\n🔘 size - {file_size}\n\n╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗\n💥 𝙅𝙊𝙄𝙉 :- @sakura_movies\n💥 𝙅𝙊𝙄𝙉 :- @amal_nath_05\n╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝ ",
             "required": false
         },
         "DATABASE_URI": {
@@ -116,7 +116,7 @@
         },
         "FORCE_SUB_TEXT": {
             "description": "custom force sub text (use ** = bold / use ``=  mono)",
-            "value": "**ᴊᴏɪɴ ᴏᴜʀ !**",
+            "value": "**ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ!**",
             "required": false 
         },
         "P_TTI_SHOW_OFF": {
